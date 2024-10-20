@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="test1">saling under the brigge</string>
+    <string name="test1_year">2013</string>
+    <string name="test2"> still life of blue rose and other flowers</string>
+    <string name="test2_year">2000</string>
+    <string name="test3">the most populous city in the country</string>
+    <string name="test3_year">1790</string>
+    <string name="test4">With an estimated population of around</string>
+    <string name="test4_year">2024</string>
+</resources>
